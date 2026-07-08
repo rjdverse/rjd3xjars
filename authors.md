@@ -9,7 +9,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/rjdverse/rjd3xjars/blob/develop/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/rjdverse/rjd3xjars/blob/v0.1.1/DESCRIPTION)
 
 Palate J, Barthelemy T (2026). *rjd3xjars: Interface to 'JDemetra+ 3.x'
 Time Series Analysis Software*. R package version 0.1.1,
