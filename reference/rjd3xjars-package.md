@@ -1,4 +1,4 @@
-# rjd3xjars: R Interface to 'JDemetra+ 3.x' Time Series Analysis Software
+# rjd3xjars: Interface to 'JDemetra+ 3.x' Time Series Analysis Software
 
 R Interface to 'JDemetra+ 3.x' (<https://github.com/jdemetra>) time
 series analysis software. It provides functions allowing to decompose a
@@ -17,5 +17,7 @@ Useful links:
 **Maintainer**: Tanguy Barthelemy <tanguy.barthelemy@insee.fr>
 
 Authors:
+
+- Tanguy Barthelemy <tanguy.barthelemy@insee.fr>
 
 - Jean Palate <palatejean@gmail.com>

@@ -13,6 +13,7 @@ You can install the development version of **rjd3xjars** from
 [GitHub](https://github.com/) with:
 
 ``` r
+
 # install.packages("remotes")
 remotes::install_github("rjdverse/rjd3xjars")
 ```
