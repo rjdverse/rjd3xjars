@@ -1,6 +1,6 @@
 # Changelog
 
-## rjd3xjars 0.1.1
+## rjd3xjars 0.1.1.9000
 
 All notable changes to this project will be documented in this file.
 
@@ -11,6 +11,10 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### [Unreleased](https://github.com/rjdverse/rjd3xjars/compare/0.1.1...HEAD)
 
 ### [0.1.1](https://github.com/rjdverse/rjd3xjars/compare/v0.1.0...0.1.1) - 2026-07-08
+
+#### Added
+
+- new packageStartupMessage when java version \< 21
 
 ### [0.1.0](https://github.com/rjdverse/rjd3xjars/releases/tag/v0.1.0) - 2026-04-21
 
