@@ -1,7 +1,7 @@
 Type: Package
 Package: rjd3xjars
 Title: Interface to 'JDemetra+ 3.x' Time Series Analysis Software
-Version: 0.1.2
+Version: 0.1.2.9000
 Authors@R: c(
     person("Jean", "Palate", , "palatejean@gmail.com", role = "aut"),
     person("Tanguy", "Barthelemy", , "timeserieswithjdemetraandr@gmail.com", role = c("aut", "cre", "cph"))
@@ -28,3 +28,5 @@ SystemRequirements: Java (>= 21)
 Collate: 
     'rjd3xjars-package.R'
     'zzz.R'
+Remotes:  
+    github::rjdverse/rjd3jars
