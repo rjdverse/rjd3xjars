@@ -1,10 +1,10 @@
 Type: Package
 Package: rjd3xjars
 Title: Interface to 'JDemetra+ 3.x' Time Series Analysis Software
-Version: 0.1.1.9000
+Version: 0.1.2
 Authors@R: c(
     person("Jean", "Palate", , "palatejean@gmail.com", role = "aut"),
-    person("Tanguy", "Barthelemy", , "tanguy.barthelemy@insee.fr", role = c("aut", "cre"))
+    person("Tanguy", "Barthelemy", , "timeserieswithjdemetraandr@gmail.com", role = c("aut", "cre", "cph"))
   )
 Description: R Interface to 'JDemetra+ 3.x'
     (<https://github.com/jdemetra>) time series analysis software.  It
@@ -18,12 +18,13 @@ Depends:
 Imports:
     rJava (>= 1.0-6),
     rjd3jars (>= 0.0.5)
+Suggests: 
+    spelling
 Config/roxygen2/version: 8.0.0
 Encoding: UTF-8
+Language: en-GB
 LazyData: TRUE
 SystemRequirements: Java (>= 21)
 Collate: 
     'rjd3xjars-package.R'
     'zzz.R'
-Remotes:  
-    github::rjdverse/rjd3jars
