@@ -1,8 +1,6 @@
 # Changelog
 
-## rjd3xjars 0.1.2
-
-CRAN release: 2026-08-20
+## rjd3xjars 0.1.2.9000
 
 All notable changes to this project will be documented in this file.
 
